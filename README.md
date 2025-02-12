@@ -34,12 +34,12 @@ Ensure you have a modern web browser installed (Chrome, Firefox, Safari, Edge).
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/zcrm-dashboard.git
+   git clone https://github.com/jaimepaezv/zcrm-ui.git
    ```
 
 2. **Navigate to the project directory:**
    ```bash
-   cd zcrm-dashboard
+   cd zcrm-ui
    ```
 
 3. **Open `index.html` in your browser:**
@@ -77,8 +77,3 @@ ZCRM/
 ## Contribution
 
 Contributions are welcome! Please fork the repository and submit a pull request for review.
-
----
-
-**ZCRM** - Simplifying admin interfaces for modern web applications.
-
